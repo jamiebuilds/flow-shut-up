@@ -1,0 +1,24 @@
+{
+  "name": "flow-shut-up",
+  "version": "0.0.0",
+  "description": "Add inline Flow comments to make Flow shut up about errors",
+  "main": "index.js",
+  "repository": "https://github.com/jamiebuilds/flow-shut-up",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "ava": "^0.25.0",
+    "detect-indent": "^5.0.0",
+    "detect-newline": "^2.1.0",
+    "find-up": "^2.1.0",
+    "meow": "^5.0.0",
+    "spawndamnit": "^2.0.0"
+  },
+  "devDependencies": {
+    "fixturez": "^1.1.0",
+    "flow-bin": "^0.71.0"
+  }
+}
