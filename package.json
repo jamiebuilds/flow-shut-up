@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Add inline Flow comments to make Flow shut up about errors",
   "main": "index.js",
+  "bin": "cli.js",
   "repository": "https://github.com/jamiebuilds/flow-shut-up",
   "author": "Jamie Kyle <me@thejameskyle.com>",
   "license": "MIT",
