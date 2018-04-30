@@ -1,6 +1,6 @@
 {
   "name": "flow-shut-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add inline Flow comments to make Flow shut up about errors",
   "main": "index.js",
   "bin": "cli.js",
